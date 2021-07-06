@@ -2,7 +2,7 @@
  End of the year project deployment 2021.
 
 ## Work time : 
-3 months 
+4 months 
 
 ## work steps : 
 1-Study of classical segmentation methods : Otsu and Meanshift
