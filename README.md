@@ -1,4 +1,4 @@
-### END OF YEAR PROJECT : segmentation of biomedical cells using Deep learning
+### END OF YEAR PROJECT : segmentation of biological cells using Deep learning
 # work time :
 4 months
 # steps :
